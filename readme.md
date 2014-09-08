@@ -1,10 +1,9 @@
-# example of doing awesome code first
-## with auto update
+# example of doing awesome automatic EF code first
 
-i probably should write a blog to explain this but haven't really got the time .. just look around.. it's pretty cool .. then google
+i probably should write a blog to explain this but haven't really got the time .. just look around.. it's pretty cool and should be understandable from the code.. then google stuff
 
 ### basic instructions
 
 change the connection string in the webconfig to one you can use (don't change the name SomeDBContext)
 
-p.s. yea yea.. no repository pattern... it's just a demo of EF cod first awesomeness... still have to architecture it nicely
+p.s. yea yea.. no repository pattern here... it's just a demo of EF cod first awesomeness... still have to architecture it nicely
