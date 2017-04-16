@@ -26,3 +26,5 @@ Database.SetInitializer(new MigrateDatabaseToLatestVersion<SomeDBContext, Config
 
 * https://msdn.microsoft.com/en-us/library/dn579398(v=vs.113).aspx
 * this tries to talk you out of it.. don't listen to microsoft ... https://msdn.microsoft.com/en-us/library/dn481501(v=vs.113).aspx
+
+* for mocking http://www.vannevel.net/2015/02/26/11/
